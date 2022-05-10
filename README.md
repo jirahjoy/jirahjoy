@@ -1,8 +1,10 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://jirahjoy.io)
 
 
-<h1 align="center">Hi 👋, I'm Jirah Medina</h1>
-<h3 align="center">A passionate frontend developer from Philippines.</h3>
+<h1 align="center">Hi 👋
+  <br>
+  I'm Jirah Medina</h1>
+<h3 align="center">A passionate frontend developer from the Philippines.</h3>
 <br>
 <!-- <img align='right' alt='coding' width='400' src='https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e478b7c51hrc5ewgvlkauzzkhkv5iifs14utdm7nlvq&rid=giphy.gif&ct=g'> -->
 
