@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋
   <br>
   I'm Jirah Medina</h1>
-<h3 align="center">A passionate frontend developer from the Philippines.</h3>
+<h3 align="center">I'm a fullstack developer from the Philippines.</h3>
 <br>
 <!-- <img align='right' alt='coding' width='400' src='https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e478b7c51hrc5ewgvlkauzzkhkv5iifs14utdm7nlvq&rid=giphy.gif&ct=g'> -->
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [ijirahjoy.com](ijirahjoy.com)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, MySQL**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, Vuejs, Rails, MySQL**
 
 - 📫 How to reach me **jirahmedina@gmail.com**
 
