@@ -12,13 +12,11 @@
 
 
 
-- 🌱 I’m currently learning **React JS and React Native**
+- 🌱 I’m currently doing projects on **Vue JS and Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [ijirahjoy.com](ijirahjoy.com)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, Vuejs, Rails, MySQL**
-
-- 📫 How to reach me **jirahmedina@gmail.com**
 
 - ⚡ Fun fact **I love watching anime and kdramas 😁**
 
